@@ -1,0 +1,3 @@
+first-branch file
+My first stash  
+trying after tag creation
